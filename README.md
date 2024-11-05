@@ -1,4 +1,4 @@
-Chess Game Application
+Chess virtual emulation
 
 Descripción
 Juego de ajedrez en Java con interfaz gráfica, donde puedes jugar un nuevo juego o cargar una partida desde un archivo PGN. Incluye funcionalidades para reiniciar el juego, deshacer y rehacer movimientos.
